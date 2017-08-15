@@ -13,4 +13,4 @@ $ node [script].js
 ### Ejemplos:
 - **users.js**: Descarga de datos de un api cada x tiempo.
 - **match.js**: Multiples request en paralelo y manejo usando promises.
-
+- **promisify_file_read.js**: Ejemplo para convertir lectura de archivo sincrona en asincrona.
