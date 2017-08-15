@@ -12,4 +12,5 @@ $ node [script].js
 
 ### Ejemplos:
 - **users.js**: Descarga de datos de un api cada x tiempo.
+- **match.js**: Multiples request en paralelo y manejo usando promises.
 
